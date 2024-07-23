@@ -26,3 +26,10 @@ else if(4){ // delete an entry
     Deleted successfully !!
 }
 
+no. of files created : 
+1) app.java - main file 
+2) Employee.java - for creating instances(objects)
+3) EmployeeDao - where all the connections of DB happens
+4) DB.java - JDBC Connectivity details
+5) Query.java - write queries which are going to execute
+
